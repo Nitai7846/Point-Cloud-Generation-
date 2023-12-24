@@ -1,0 +1,1 @@
+This technique makes use of the MiDAS pre-trained model to estimate depth maps from single (monocular) images. Then it uses open3d to generate a point cloud
